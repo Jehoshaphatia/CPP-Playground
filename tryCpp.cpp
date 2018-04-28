@@ -24,6 +24,10 @@ int main()
     std::cout<<"what is your name ?";
     std::cin>>yourName;
     std::cout<<"Hello "<<yourName;
+
+	std::cout << "How old are you ?";
+	std::cin >> yourName;
+	std::cout << "Hello " << yourName;
     
 
     //end part
