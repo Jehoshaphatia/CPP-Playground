@@ -28,6 +28,9 @@ int main()
 	std::cout << "How old are you ?";
 	std::cin >> yourName;
 	std::cout << "Hello " << yourName;
+	std::cout << "what is your name ?";
+	std::cin >> yourName;
+	std::cout << "Hello " << yourName;
     
 
     //end part
