@@ -30,7 +30,7 @@ int main()
 	std::cout << "Hello " << yourName;
 	std::cout << "what is your name ?";
 	std::cin >> yourName;
-	std::cout << "Hello " << yourName;
+	
     
 
     //end part
