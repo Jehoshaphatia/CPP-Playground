@@ -26,10 +26,9 @@ int main()
     std::cout<<"Hello "<<yourName;
 
 	std::cout << "How old are you ?";
-	std::cin >> yourName;
-	std::cout << "Hello " << yourName;
-	std::cout << "what is your name ?";
-	std::cin >> yourName;
+	std::cin >> age;
+	 std::cout<<"Wow! you look good at "<<age<<"!\n";
+	
 	
     
 
